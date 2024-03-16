@@ -11,8 +11,6 @@ _Nom descriptiu del requisit_
 _Descripció textual del requisit_
 ### Relations: -- Requisits relacionats
 _Llista dels ID dels requisits relacionats_
-Enunciat de Pràctiques Versió 1.0
-Pàgina 14 de 16
 ### Comments: -- Comentaris
 _Comentaris addicionals que es vulguin afegir opcionalment_
 ---
