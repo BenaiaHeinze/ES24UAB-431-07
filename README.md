@@ -1,8 +1,8 @@
 # ES24UAB-431-07 : Plataforma de vendes online i llurament a domicili
-1. [Benaia J. Heinze Silva, NIU: 1634990, Github user: ](https://github.com/BenaiaHeinze)
-2. [Josep Gil Rivas, NIU: , Github user: ](https://github.com/NIU1673388)
-3. [Xavi Grau Lirio, NIU: , Github user: ](https://github.com/Xavi1670093)
-4. [Arnau Trucharte Vila, NIU: , Github user: ](https://github.com/arnbie)
+1. Benaia J. Heinze Silva, NIU: 1634990, [Github user](https://github.com/BenaiaHeinze)
+2. Josep Gil Rivas, NIU: 1673388, [Github user](https://github.com/NIU1673388)
+3. Xavi Grau Lirio, NIU: 1670093, [Github user](https://github.com/Xavi1670093)
+4. Arnau Trucharte Vila, NIU: 1634802, [Github user](https://github.com/arnbie)
 
 ## Introducció
 Aquest repositori conté la pràctica que es fa a terme a Enginyeria del Software. Es tracta de construir una plataforma de vendes per Internet i lliurament a domicili anomenada ENCASA.
@@ -19,9 +19,9 @@ En aquest primer Sprint es vol aconseguir generar tots els requisits del project
 
 ### Materials produits a l'entrega
 En aquesta primera entrega, hem:
-  · Creat el repositori del projecte (inclosos la primera versió del README.md, les carpetes /documents/, /minutes/, /others/ i /requeriments/)
-  · Produit els diferents fitxers .md per cada requisit del projecte.
-  · Complert el Sprint1 al Jira
+1. Creat el repositori del projecte (inclosos la primera versió del README.md, les carpetes /documents/, /minutes/, /others/ i /requeriments/)
+2.  Produit els diferents fitxers .md per cada requisit del projecte.
+3.  Complert el Sprint1 al Jira
 
 ## Sprint2
 ### Explicació del Sprint
