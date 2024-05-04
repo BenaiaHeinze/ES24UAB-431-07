@@ -25,9 +25,14 @@ En aquesta primera entrega, hem:
 
 ## Sprint2
 ### Explicació del Sprint
+En aquest segon sprint es vol fer un diagrama cas d'us de la plataforma ENCASA del projecte
 
 ### Materials produits a l'entrega
-
+En aquesta segona entrega hem:
+1. Creat un diagrama de cas d'us per cada perfil d'usuari
+2. Creat un diagrama de cas d'us de final ajuntant tots els perfils d'usuaris
+3. Complert el Sprint 2 al jira
+   
 ## Sprint3
 ### Explicació del Sprint
 
