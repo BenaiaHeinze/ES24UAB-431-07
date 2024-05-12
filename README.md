@@ -35,8 +35,13 @@ En aquesta segona entrega hem:
    
 ## Sprint3
 ### Explicació del Sprint
+En aquest tercer sprint es vol fer les especificacions dels casos d'us i generar un diagrama de classes.
 
 ### Materials produits a l'entrega
+En aquesta segona entrega hem:
+1. Creat un diagrama de classes per cada perfil d'usuari
+2. Creat un diagrama de cas d'us final ajuntant tots els perfils d'usuaris
+3. Complert el Sprint 3 al jira
 
 ## Sprint4
 ### Explicació del Sprint
