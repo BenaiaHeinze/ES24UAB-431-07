@@ -46,5 +46,9 @@ En aquesta tercera entrega hem:
 
 ## Sprint4
 ### Explicació del Sprint
+En aquest sprint es vol fer els diagrames de sequencia i acabar els diagrames de clases
 
 ### Materials produits a l'entrega
+1. Creat un diagrama de sequencia per cada cas d'ús
+2. Creat un diagrama de clases final
+3. Complert el sprint 4 al jira
